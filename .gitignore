@@ -1,0 +1,3 @@
+# Local session archive — large Claude Code transcripts kept for context lookup.
+# Not source code; must never be committed (hundreds of MB).
+_session-archive/
